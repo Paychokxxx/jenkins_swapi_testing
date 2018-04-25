@@ -334,7 +334,7 @@
 			"response": []
 		},
 		{
-			"name": "https://swapi.co/api/starships/1/",
+			"name": "https://swapi.co/api/planets/4/",
 			"event": [
 				{
 					"listen": "test",
@@ -358,7 +358,7 @@
 				"header": [],
 				"body": {},
 				"url": {
-					"raw": "https://swapi.co/api/starships/1/",
+					"raw": "https://swapi.co/api/planets/4/",
 					"protocol": "https",
 					"host": [
 						"swapi",
@@ -366,8 +366,8 @@
 					],
 					"path": [
 						"api",
-						"starships",
-						"1",
+						"planets",
+						"4",
 						""
 					]
 				}
@@ -375,7 +375,7 @@
 			"response": []
 		},
 		{
-			"name": "https://swapi.co/api/starships/2/",
+			"name": "https://swapi.co/api/planets/5/",
 			"event": [
 				{
 					"listen": "test",
@@ -399,7 +399,7 @@
 				"header": [],
 				"body": {},
 				"url": {
-					"raw": "https://swapi.co/api/starships/2/",
+					"raw": "https://swapi.co/api/planets/5/",
 					"protocol": "https",
 					"host": [
 						"swapi",
@@ -407,8 +407,8 @@
 					],
 					"path": [
 						"api",
-						"starships",
-						"2",
+						"planets",
+						"5",
 						""
 					]
 				}
